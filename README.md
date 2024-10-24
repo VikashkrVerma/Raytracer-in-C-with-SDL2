@@ -1,1 +1,1 @@
-# Raytracer-in-C-with-SDL2
+# Raytracer-in-C++-with-SDL2
